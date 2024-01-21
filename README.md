@@ -9,6 +9,7 @@
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jwilliaam_/)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-william-almeida-da-silva/)
 
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 <!--
 **williamC137/williamC137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
